@@ -1,1 +1,1 @@
-# BadlandBrawl-packetDocs
+# BadlandBrawl-Docs
